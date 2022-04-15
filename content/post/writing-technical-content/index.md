@@ -7,7 +7,8 @@ image:
   placement: 2
   caption: ""
 ---
-TLDR;
+# TLDR
+Gingko writing app is an app for note-taking, outlining and writing. I don't use it personally but would strongly recommend to anyone who enjoy outlining.
 
 # What does it do
 
