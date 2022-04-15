@@ -3,6 +3,10 @@ title: Gingko Writing review
 date: 2019-07-12
 math: true
 highlight: true
+tags:
+  - Note-taking
+  - academic
+  - writing
 image:
   placement: 2
   caption: ""
