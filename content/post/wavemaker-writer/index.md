@@ -44,7 +44,7 @@ The snowflake methedoloy is primarily used for writing fiction. However it may a
   * What is the knowledge gap (1 sentence)?
   * What have you done to address this gap (1 sentence)?
   * What did you discover (1 sentence)?
-Each of these aspects of the snowflake can then be branched out and sentences be added. In this way the outer
+Each of these aspects of the snowflake can then be branched out and sentences be added. In this way the outer circle of the snowflake will make up the entire article. The kanban board and mindmap
 
 Outlining a project. Can be very useful for thesis or articles if one wants to ensure that the overall argumentation is kept the same throughout a document. 
 
