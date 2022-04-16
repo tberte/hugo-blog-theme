@@ -1,7 +1,7 @@
 ---
 title: Wavemaker writer
 date: 2022-04-15T10:52:27.266Z
-draft: true
+draft: false
 featured: false
 image:
   filename: featured
@@ -10,7 +10,7 @@ image:
 ---
 # TLDR
 
-Gingko writing app is an app for note-taking, outlining and writing. I don't use it personally but would strongly recommend to anyone who enjoy outlining.
+Wavemaker app is a great app for writing large projects with a lot of functionality. I don't use it personally but would strongly recommend to anyone who has a large complex projects and likes structuring content.
 
 # What does it do
 
@@ -44,18 +44,21 @@ The snowflake methedoloy is primarily used for writing fiction. However it may a
   * What is the knowledge gap (1 sentence)?
   * What have you done to address this gap (1 sentence)?
   * What did you discover (1 sentence)?
-Each of these aspects of the snowflake can then be branched out and sentences be added. In this way the outer circle of the snowflake will make up the entire article. The kanban board and mindmap
+    Each of these aspects of the snowflake can then be branched out and sentences be added. In this way the outer circle of the snowflake will make up the entire article. The kanban board and mindmap function in a similiar way.
 
-Outlining a project. Can be very useful for thesis or articles if one wants to ensure that the overall argumentation is kept the same throughout a document. 
+Outlining a project. Can be very useful for thesis or articles if one wants to ensure that the overall argumentation is kept the same throughout a document. For further details on using the snowflake method for academic writing see this [link](https://tbberte.netlify.app/post/snowflake-method-for-academic-writing/)
+
+## Challenge mode
+This is probably one of my favorite tools and works great for those days where you get stuck in your head and can't get any words out. Make sure to set reasonable challenges so you actually have a chance to finish.
 
 # My personal experience
 
-This is an app that I want to love, but actually don't. The layout is smooth the concept is clear, and it works exactly as intended. There is support for LateX, markdown tables, pictures and graphs. Really, this app does it all and more. So why don't i love it? Primarily for two reasons: theres no direct and easy way to handle citations and lack of colloboration. These issues are easy to work around, so it may be just me that is too set in my ways.
+Although all the functions in the wavemaker app seem great I have personally found little use of them. The one function that I have used occasionally is the challenge mode, which is great when you get stuck in your writing. I would definetly recommend wavemaker if you have a large project or are writing a book by yourself.
 
 # Costs
 
-The free version og gingko allows you 10 total documents with enough space to last for most needs. If you want more or feel like supporting the creator there is a pay what you want (recommended 12$/month) that gives you infinite space and usage. 
+One of the best things about wavemaker is that it is completely free.
 
 # Final judgmenet
 
-If you work mostly alone, love outlining and don't mind maintaining a BibTeX citation document this app is great and I would recommend.
+If you have a complex and large project or need help sorting your thoughts then wavemaker could be perfect for you. If you find that using apps and gimicks are already taking more time from your writing than they are adding than I would suggest passing on this fine software.
